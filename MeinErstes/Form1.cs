@@ -14,7 +14,7 @@ namespace MeinErstes
         private void cmdHallo_Click(
             object sender, EventArgs e)
         {
-            // Diese Anweisung setzt den Text in das Label
+            // Diese Anweisung setzt den Text in das Label-Steuerelement   
             lblAnzeige.Text = "Hallo";
         }
 
